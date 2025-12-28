@@ -1,1 +1,2 @@
 Root authority declaration
+Verified root authority
